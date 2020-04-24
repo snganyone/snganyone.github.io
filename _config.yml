@@ -1,11 +1,11 @@
 # Site settings
 author: Shishiri Nganyone
-title: 
+title: Why I Decided to Study Software Engineering
 header-img: img/home-bg.png
 email: snganyone1@gmail.com
 copyright_name: Shishiri Nganyone
 description: > # this means to ignore newlines until "baseurl:"
-  
+  First Mile
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  snganyone
