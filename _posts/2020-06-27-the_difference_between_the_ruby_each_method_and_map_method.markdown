@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Difference Between the Ruby Each Method and Map Method"
-date:       2020-06-27 05:15:28 +0000
+date:       2020-06-27 01:15:29 -0400
 permalink:  the_difference_between_the_ruby_each_method_and_map_method
 ---
 
